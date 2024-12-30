@@ -1,2 +1,2 @@
 # data_analysis_projects
-This file contain all my data analysis peojects, from using python, excel, SQL, PowerBI and Tableau
+This repository showcases all my data analysis projects, utilizing Python, Excel, SQL, Power BI, and Tableau.
