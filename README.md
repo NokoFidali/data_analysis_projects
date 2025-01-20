@@ -1,2 +1,2 @@
 # Data Analysis Projects
-This repository showcases all my data analysis projects, utilizing Python, Excel, SQL, Power BI, and Tableau.
+This repository showcases a collection of my data analysis projects, leveraging Python, Excel, SQL, Power BI, and Tableau. Each project highlights different aspects of data analysis, including data cleaning, manipulation, visualization, and generating actionable insights. Explore case studies, dashboards, and code to see how I approach real-world data challenges and provide solutions.
